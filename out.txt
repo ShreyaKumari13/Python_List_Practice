@@ -1,0 +1,6 @@
+51. Write a Python program to create a list with infinite elements. Go to the editor
+52. Write a Python program to concatenate elements of a list. Go to the editor
+53. Write a Python program to remove key values pairs from a list of dictionaries. Go to the editor
+51. Write a Python program to create a list with infinite elements. Go to the editor
+52. Write a Python program to concatenate elements of a list. Go to the editor
+53. Write a Python program to remove key values pairs from a list of dictionaries. Go to the editor
